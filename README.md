@@ -1,6 +1,6 @@
 # MonoVPR: MonocularVehiclePoseandShapeReconstructionviaDynamicContext AdaptationandProgressiveGeometryRefnement
 
-![sample](https://github.com/LongJi12/MonoVPR/blob/main/for_git/resutls.png)
+![sample](https://github.com/LongJi12/MonoVPR/blob/main/for_git/results.png)
 
 ## Introduction
 This repo is the official Code of MonoVPR: Monocular Vehicle Pose and Shape Reconstruction via Dynamic Context Adaptation and Progressive Geometry Refinement (**AAAI 2026**). [[Paper]](https://doi.org/10.1609/aaai.v40i8.37573)
@@ -34,6 +34,7 @@ python main.py
 ## Train
 
 1. Run the command below.
+
 For Single-GPU Training:
 You must specify the CUDA device in configs/custom.yaml. Then run the command below:
 ```
