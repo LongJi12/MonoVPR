@@ -1,4 +1,4 @@
-# MonoVPR: MonocularVehiclePoseandShapeReconstructionviaDynamicContext AdaptationandProgressiveGeometryRefnement
+# MonoVPR: Monocular Vehicle Pose and Shape Reconstruction via Dynamic Context Adaptation and Progressive Geometry Refnement
 
 ![sample](https://github.com/LongJi12/MonoVPR/blob/main/for_git/results.png)
 
