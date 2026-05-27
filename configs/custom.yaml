@@ -1,6 +1,6 @@
 _BASE_: "res2net-bifpn.yaml" 
 MODEL:
-  WEIGHTS: /DATACENTER2/long.ji/BAAM2/model_22400.pth.pth        #res2net_bifpn.pth \CenterNet2_R2-101-DCN-BiFPN_4x+4x_1560_ST.pth \#best_rel_model.pth #res2net_bifpn.pth
+  WEIGHTS: model_22400.pth.pth        
   DEVICE: 'cuda:4'
   # DEVICE: 'cuda'
   BACKBONE:
