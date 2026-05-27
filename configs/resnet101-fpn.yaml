@@ -1,5 +1,5 @@
 MODEL:
-  META_ARCHITECTURE: "BAAM"
+  META_ARCHITECTURE: "MonoVPR"
   BACKBONE:
     NAME: "build_resnet_fpn_backbone"
   RESNETS:
